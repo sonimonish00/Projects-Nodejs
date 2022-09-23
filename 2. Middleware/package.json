@@ -1,0 +1,20 @@
+{
+  "name": "ex-2-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.1",
+    "nodemon": "^2.0.19",
+    "path": "^0.12.7"
+  }
+}
